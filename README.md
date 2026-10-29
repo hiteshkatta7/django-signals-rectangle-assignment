@@ -2,7 +2,7 @@
 
 Assignment submission as a Django project.
 
-**GitHub link:** https://github.com/<your-username>/django-signals-rectangle-assignment  *(replace with your real repository URL after pushing)*
+   **GitHub link:** https://github.com/hiteshkatta7/django-signals-rectangle-assignment  *(replace with your real repository URL after pushing)*
 
 ## Project layout
 
